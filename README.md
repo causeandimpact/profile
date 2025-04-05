@@ -1,6 +1,6 @@
-![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fcauseandimpact.org)
-![Status](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)
-![Built With](https://img.shields.io/badge/Built%20With-Node.js%20%7C%20MongoDB%20%7C%20React-informational)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
+![Platform](https://img.shields.io/badge/Fiscal_Sponsor_Tech-SponsFI-7C3AED?style=flat-square)
+![AI Compliance](https://img.shields.io/badge/AI_Expert-JustAskPhil-16a34a?style=flat-square)
 
 # Cause and Impact
 
@@ -19,6 +19,19 @@
 Cause and Impact is a next-generation **fiscal sponsor** that combines advanced technology with white-glove nonprofit support. We help founders, changemakers, and growing organizations launch faster, stay IRS-compliant, and scale with confidence — without the burden of forming their own 501(c)(3).
 
 Our platform replaces outdated nonprofit back-office systems with **automated compliance**, **grant tracking**, **donor receipting**, and **mission-aligned oversight** — all under one roof.
+
+---
+
+## 🚀 Tech & Trust Stack
+
+**Powered by intelligent infrastructure that nonprofits can count on:**
+
+- 🧠 **Platform Intelligence**: Built with `JustAskPhil` — our protocol-hardened AI compliance system
+- 🛠️ **Core Stack**: Node.js · React · Express.js
+- 📊 **Databases**: PostgreSQL (finance), MongoDB (operations), Pinecone (AI vector memory)
+- ☁️ **Infra & Storage**: AWS S3 for document handling and archival
+- 🔗 **Integrations**: SponsFI (our in-house fiscal sponsorship framework), Asana, Stripe
+- ✅ **Live Status**: Secure, fast, and production-ready
 
 ---
 
