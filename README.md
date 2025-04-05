@@ -1,3 +1,7 @@
+![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online&url=https%3A%2F%2Fcauseandimpact.org)
+![Status](https://img.shields.io/badge/License-All%20Rights%20Reserved-lightgrey.svg)
+![Built With](https://img.shields.io/badge/Built%20With-Node.js%20%7C%20MongoDB%20%7C%20React-informational)
+
 # Cause and Impact
 
 **An advanced fiscal sponsorship platform built to make nonprofit operations easy, scalable, and compliant — so you can focus on your mission.**
