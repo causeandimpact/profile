@@ -85,4 +85,14 @@ This repository is for **public discovery purposes only** and does not contain t
 `fiscal sponsorship`, `nonprofit infrastructure`, `501(c)(3) alternatives`, `grant management`, `IRS compliance`, `nonprofit tech`, `donor receipting`, `nonprofit platform`, `mission-driven technology`, `back-office automation`, `AI in nonprofit`, `just ask phil`,`sponsfi`,`nonprofit compliance tools`
 
 ---
+
+📢 **Want to Partner with Cause and Impact?**
+
+Join the movement redefining nonprofit operations.
+
+→ Visit [causeandimpact.org](https://www.causeandimpact.org)  
+→ Submit an [Application](https://www.causeandimpact.org/apply)  
+→ [Email us](mailto:hello@causeandimpact.org) with collaboration inquiries
+
+---
 © 2024–Present Cause and Impact. All rights reserved.
