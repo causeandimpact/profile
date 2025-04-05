@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square)
 ![Platform](https://img.shields.io/badge/Fiscal_Sponsor_Tech-SponsFI-7C3AED?style=flat-square)
 ![AI Compliance](https://img.shields.io/badge/AI_Expert-JustAskPhil-16a34a?style=flat-square)
-![Cause and Impact Banner](https://github.com/causeandimpact/causeandimpact/blob/main/.github/header.png.png?raw=true)
+![Cause and Impact Banner](https://github.com/causeandimpact/causeandimpact/blob/main/.github/header.png?raw=true)
 # Cause and Impact
 
 **An advanced fiscal sponsorship platform built to make nonprofit operations easy, scalable, and compliant — so you can focus on your mission.**
